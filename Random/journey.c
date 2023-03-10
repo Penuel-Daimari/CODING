@@ -44,6 +44,5 @@ int main()
     printf("Enter n: ");
     scanf("%d", &n);
     print_diamond(n);
-    printf("Executed\n");
     return 0;
 }
